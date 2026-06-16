@@ -106,6 +106,24 @@
       "title": "Summa cum laude",
       "date": "2021",
       "awarder": "Stony Brook University"
+    },
+    {
+      "title": "American Mathematics Competitions 12",
+      "date": "High school",
+      "awarder": "Mathematical Association of America",
+      "summary": "Ranked top 3%."
+    },
+    {
+      "title": "American Invitational Mathematics Examination",
+      "date": "High school",
+      "awarder": "Mathematical Association of America",
+      "summary": "AIME qualifier; scored top 30%."
+    },
+    {
+      "title": "American Regions Mathematics League",
+      "date": "High school",
+      "awarder": "New York City Math Team",
+      "summary": "Selected for the NYC Math Team and competed on a top-30 ARML team."
     }
   ],
   "skills": [
@@ -125,6 +143,20 @@
       "releaseDate": "2025-10-22",
       "url": "https://arxiv.org/pdf/2510.19942",
       "summary": "Xiangying Huang and Renyu Rao. arXiv:2510.19942 [math.PR]."
+    },
+    {
+      "name": "Phenobarbital versus benzodiazepine-only treatment for alcohol withdrawal in the Emergency Department",
+      "publisher": "Consulting report",
+      "releaseDate": "2026-06-16",
+      "url": "/assets/pdf/phenobarbital-benzodiazepine-ed-report.pdf",
+      "summary": "Retrospective analysis of 1,267 emergency department encounters comparing alcohol-withdrawal treatment strategies."
+    },
+    {
+      "name": "Evaluation of treatments for Temporomandibular Disorder, with and without comorbid headache",
+      "publisher": "Consulting report",
+      "releaseDate": "2026-06-16",
+      "url": "/assets/pdf/tmd-headache-treatment-report.pdf",
+      "summary": "Retrospective analysis of treatment response among TMD patients with and without comorbid headache."
     }
   ],
   "projects": [
@@ -139,6 +171,18 @@
       "startDate": "2021-06",
       "endDate": "2021-08",
       "summary": "R simulations and goodness-of-fit testing for digit-bias behavior."
+    },
+    {
+      "name": "Phenobarbital versus benzodiazepine-only treatment for alcohol withdrawal in the Emergency Department",
+      "startDate": "2026-06",
+      "url": "/assets/pdf/phenobarbital-benzodiazepine-ed-report.pdf",
+      "summary": "Applied biostatistics consulting report for UNC Emergency Department collaborators."
+    },
+    {
+      "name": "Evaluation of treatments for Temporomandibular Disorder, with and without comorbid headache",
+      "startDate": "2026-06",
+      "url": "/assets/pdf/tmd-headache-treatment-report.pdf",
+      "summary": "Applied biostatistics consulting report for a UNC dentistry collaborator."
     }
   ]
 }
