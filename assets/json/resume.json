@@ -167,12 +167,6 @@
       "summary": "Current preprint on cutoff for random walks on finite dihedral groups."
     },
     {
-      "name": "Benford's Law simulations",
-      "startDate": "2021-06",
-      "endDate": "2021-08",
-      "summary": "R simulations and goodness-of-fit testing for digit-bias behavior."
-    },
-    {
       "name": "Phenobarbital versus benzodiazepine-only treatment for alcohol withdrawal in the Emergency Department",
       "startDate": "2026-06",
       "url": "/assets/pdf/phenobarbital-benzodiazepine-ed-report.pdf",
@@ -183,6 +177,56 @@
       "startDate": "2026-06",
       "url": "/assets/pdf/tmd-headache-treatment-report.pdf",
       "summary": "Applied biostatistics consulting report for a UNC dentistry collaborator."
+    },
+    {
+      "name": "Gaussian mixture NPMLE",
+      "startDate": "2022-09",
+      "endDate": "2022-12",
+      "summary": "Mentored research on nonparametric maximum likelihood estimation for Gaussian/location mixture models."
+    },
+    {
+      "name": "Benford's Law simulations",
+      "startDate": "2021-06",
+      "endDate": "2021-08",
+      "summary": "R simulations and goodness-of-fit testing for digit-bias behavior."
+    },
+    {
+      "name": "Contest scoring system",
+      "startDate": "2018-05",
+      "endDate": "2021-05",
+      "summary": "Google Sheets scoring workflow for New York City Interscholastic Math League."
+    }
+  ],
+  "teaching": [
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "role": "Instructor",
+      "course": "STOR 155 Introduction to Data Models and Inference",
+      "terms": ["Summer 2026"]
+    },
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "role": "Teaching Assistant",
+      "course": "STOR 435 Probability Theory",
+      "terms": ["Fall 2023", "Spring 2024", "Summer 2024", "Spring 2025", "Fall 2025", "Spring 2026"]
+    },
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "role": "Teaching Assistant",
+      "course": "STOR 435 Methods of Data Analysis",
+      "terms": ["Fall 2024"]
+    },
+    {
+      "institution": "Columbia University",
+      "role": "Teaching Assistant",
+      "course": "STAT 5207 Stochastic Processes",
+      "terms": ["Spring 2022"]
+    },
+    {
+      "institution": "Stony Brook University",
+      "role": "Teaching Assistant",
+      "course": "CHE 152 Molecular Science I",
+      "terms": ["Fall 2019"]
     }
   ]
 }
