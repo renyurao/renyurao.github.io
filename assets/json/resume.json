@@ -1,1 +1,144 @@
-{"basics":{"name":"Renyu Rao","label":"Ph.D. Student","image":"","email":"renyu@unc.edu","phone":"","url":"https://coccus99.github.io/","summary":"A Ph.D. student with interests in Probability and ML","location":{"address":"B1 Hanes Hall","postalCode":"27514","city":"Chapel Hill","countryCode":"US","region":"North Carolina"},"profiles":[{"network":"Twitter","username":"AlbertEinstein","url":"https://twitter.com/AlbertEinstein"}]},"volunteer":[],"education":[{"institution":"University of North Carolina at Chapel Hill","url":"https://stor.unc.edu/","area":" Statistics and Operations Research","studyType":"Ph.D.","startDate":"08/23","endDate":"05/28","score":"","courses":["123"]"institution":"University of North Carolina at Chapel Hill","url":"https://stor.unc.edu/","area":" Statistics and Operations Research","studyType":"Ph.D.","startDate":"08/23","endDate":"05/28","score":"","courses":["123"]}],"work":[{"name":"Institute for Advanced Study, Princeton University","position":"Professor of Theoretical Physics","url":"https://example.com","startDate":"1933-01-01","endDate":"1955-01-01","summary":"Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.","highlights":["Relativity"]}],"awards":[{"title":"Nobel Prize in Physics","date":"1921-11-01","awarder":"Royal Swedish Academy of Sciences","summary":"The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"}],"certificates":[],"publications":[],"skills":[],"languages":[{"language":"German","fluency":"Native speaker"},{"language":"English","fluency":"Fluent"}],"interests":[],"references":[],"projects":[]}
+{
+  "basics": {
+    "name": "Renyu Rao",
+    "label": "Ph.D. Student",
+    "email": "renyu@unc.edu",
+    "url": "https://renyurao.github.io/",
+    "summary": "Ph.D. student in Statistics and Operations Research at UNC Chapel Hill, working on Markov-chain mixing times and random walks on groups.",
+    "location": {
+      "city": "Chapel Hill",
+      "region": "North Carolina",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "renyu-rao-2306161b4",
+        "url": "https://www.linkedin.com/in/renyu-rao-2306161b4/"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "url": "https://stor.unc.edu/",
+      "area": "Statistics and Operations Research",
+      "studyType": "Ph.D.",
+      "startDate": "2023-08",
+      "endDate": "2028-05",
+      "courses": [
+        "Advisor: Prof. Xiangying (Zoe) Huang",
+        "Research focus: Markov-chain mixing times and random walks on groups"
+      ]
+    },
+    {
+      "institution": "Columbia University",
+      "area": "Statistics",
+      "studyType": "M.A.",
+      "startDate": "2021-08",
+      "endDate": "2022-12",
+      "score": "3.83/4.33",
+      "courses": [
+        "Statistics Opportunity Scholarship Award ($50,000)"
+      ]
+    },
+    {
+      "institution": "Stony Brook University",
+      "area": "Mathematics; Applied Mathematics and Statistics",
+      "studyType": "B.S.",
+      "startDate": "2018-08",
+      "endDate": "2021-05",
+      "score": "3.95/4.00",
+      "courses": [
+        "Double major in Applied Mathematics and Statistics",
+        "Major GPA: 4.00/4.00",
+        "Summa cum laude",
+        "Dean's List",
+        "Top 20% in Putnam"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Cutoff for Random Walks on Dihedral Groups",
+      "position": "Co-author",
+      "url": "https://arxiv.org/pdf/2510.19942",
+      "startDate": "2025-10",
+      "summary": "Preprint with Xiangying Huang on cutoff for random walks on finite dihedral groups.",
+      "highlights": [
+        "Analyzed continuous-time Markov chains on random Cayley graphs of finite dihedral groups with k i.i.d. random generators",
+        "Proved high-probability cutoff in nearly the full regime 1 << log k << log |G|",
+        "Characterized the phase-dependent cutoff time and developed entropy-concentration estimates for auxiliary high-dimensional lattice processes with dependent coordinates"
+      ]
+    },
+    {
+      "name": "Columbia University Department of Statistics",
+      "position": "Selective Mentee, M.A. Mentored Research",
+      "startDate": "2022-09",
+      "endDate": "2022-12",
+      "summary": "Research under Prof. Bodhisattva Sen on nonparametric maximum likelihood estimation for Gaussian/location mixture models.",
+      "highlights": [
+        "Connected mixture-model likelihood geometry with convex-analytic arguments",
+        "Synthesized academic papers and monographs in weekly reports",
+        "Established optimizer existence and a finite-support representation via Caratheodory's theorem in likelihood-vector space"
+      ]
+    },
+    {
+      "name": "PolyMath Summer Research Program",
+      "position": "Participant",
+      "startDate": "2021-06",
+      "endDate": "2021-08",
+      "summary": "Collaborative research with Prof. Steven Miller on Benford's Law for digit-bias diagnostics.",
+      "highlights": [
+        "Simulated precinct-level election profiles under Weibull models in R",
+        "Implemented chi-square goodness-of-fit tests and sensitivity analyses for digit-bias fraud-detection heuristics"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Statistics Opportunity Scholarship Award",
+      "date": "2021",
+      "awarder": "Columbia University",
+      "summary": "$50,000"
+    },
+    {
+      "title": "Summa cum laude",
+      "date": "2021",
+      "awarder": "Stony Brook University"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming and Tools",
+      "keywords": ["R", "Python (basic)", "Java", "LaTeX", "Google Sheets automation", "Microsoft Office"]
+    },
+    {
+      "name": "Languages",
+      "keywords": ["English", "Mandarin", "Cantonese"]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Cutoff for random walks on dihedral groups",
+      "publisher": "arXiv",
+      "releaseDate": "2025-10-22",
+      "url": "https://arxiv.org/pdf/2510.19942",
+      "summary": "Xiangying Huang and Renyu Rao. arXiv:2510.19942 [math.PR]."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cutoff for Random Walks on Dihedral Groups",
+      "startDate": "2025-10",
+      "url": "https://arxiv.org/pdf/2510.19942",
+      "summary": "Current preprint on cutoff for random walks on finite dihedral groups."
+    },
+    {
+      "name": "Benford's Law simulations",
+      "startDate": "2021-06",
+      "endDate": "2021-08",
+      "summary": "R simulations and goodness-of-fit testing for digit-bias behavior."
+    }
+  ]
+}

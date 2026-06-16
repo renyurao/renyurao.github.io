@@ -1,4 +1,11 @@
 User-agent: *
-Disallow:
+Disallow: /blog/2015/
+Disallow: /blog/2020/
+Disallow: /blog/2021/
+Disallow: /blog/2022/
+Disallow: /blog/2023/
+Disallow: /blog/category/
+Disallow: /blog/page/
+Disallow: /blog/tag/
 
 Sitemap: https://renyurao.github.io/sitemap.xml
